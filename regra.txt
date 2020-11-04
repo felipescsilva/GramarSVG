@@ -1,0 +1,6 @@
+gramatica: F, +, -
+regra:F->FF-F-F-F-FF
+inicializador:F-F-F-F
+numGeracoes:4
+comprimento:20
+angulo:90
